@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.obj
+*.pyc
+__pycache__/
+records.txt
+resources.txt
+.vscode/
